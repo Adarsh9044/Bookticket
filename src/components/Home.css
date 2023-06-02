@@ -1,0 +1,54 @@
+.ada{
+    background-color:blanchedalmond;
+    margin-top:-10px;
+    margin-left: -8px;
+    margin-right: -8px;
+
+  }
+.adaa{
+    background-color: aqua;
+    margin-top:-10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 70px;
+    
+    
+  }
+a{
+    text-decoration: none;
+  }
+
+.summary{
+    background-color: blanchedalmond;
+    margin-top:-20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+    height: 50vh;
+    
+  }
+  .titlename{
+    text-align: center;
+  }
+  .booking{
+    width: 50vh;
+    height: 50vh;
+  }
+  .bookings{
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: aquamarine;
+  }
+
+  .buton{
+    margin-left: 100px;
+  }
+  .booktingitle{
+    text-align: center;
+  }
+  
